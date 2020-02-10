@@ -1,0 +1,13 @@
+
+.l_navigator {
+  width: 100%;
+  background-color: black;
+  height: 70px;
+}
+
+.c_navigator {
+   width: 50%;
+   background-color: aqua;
+   height: 70px;
+   margin: auto;
+}
