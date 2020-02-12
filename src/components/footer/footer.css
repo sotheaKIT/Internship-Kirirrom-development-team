@@ -1,0 +1,42 @@
+.footer-service {
+    font-size: 14px;
+    line-height: 17px;
+    padding: 50px 6.66%;
+    display: flow-root;
+}
+
+.footer-service-extend {
+    float: left;
+    width: 25%;
+    color: #696969;
+}
+.footer-service-extend ul {
+    list-style-type: none;
+    padding: 0px;
+}
+.title {
+    color: black;
+    font-weight: bold;
+}
+.title2 {
+    color: black;
+    font-size: 24px;
+}
+.t_title {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+li {
+    margin-bottom: 100px;
+}
+
+
+.footer {
+    width: 100%;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
