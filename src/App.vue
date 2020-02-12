@@ -11,7 +11,8 @@ import HomePage from './view/HomePage'
 export default {
   name: 'App',
   components: {
-    HomePage
+    HomePage,
+    
   }
 }
 </script>
