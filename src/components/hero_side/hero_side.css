@@ -1,0 +1,22 @@
+
+
+/* style for button start free trail */
+.content button {
+    width: 200px;
+    height: 60px;
+    background-color: #000000; /* Green */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 19px 24px;
+    display: inline-block;
+    cursor: pointer;
+/* style for text in button */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    text-decoration: none;
+  }
