@@ -50,8 +50,17 @@ li {
     padding: 0px;
 }
 .vertical { 
-    border-left: 2px solid black; 
-    height: 300px; 
-    position:absolute; 
-    left: 50%; 
-} 
+        border-left: 1px solid black; 
+        height: 200px; 
+        position:absolute; 
+        left: 49%; 
+        display:inline-block;
+        margin-right:20px;
+    }
+p {
+    margin-bottom: 80px;
+
+}
+a.privacy{
+    margin-bottom: 80px;
+}
