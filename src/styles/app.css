@@ -1,6 +1,8 @@
-body, html {
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  overflow-x: hidden;
+
+html, body {
+  margin: auto;
+  max-width: 1440px;
+  min-width: auto;
+  width: 100%;
+
 }
