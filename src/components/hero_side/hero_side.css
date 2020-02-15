@@ -1,22 +1,63 @@
+/* style for hero container */
+.hero_container{
+    width: 1349p;
+    height: 642px;
+}
+/* style for content */
+.content{
+    width: 422px;
+    height: 357px;
+    float: left;
+    padding-top: 155px;
+    padding-left: 135px;
+}
+/* style for content title */
+.content .title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 66px;
+    color: #000000;
+    margin: 0px;
 
-
-/* style for button start free trail */
-.content button {
-    width: 200px;
-    height: 60px;
-    background-color: #000000; /* Green */
-    border: none;
-    border-radius: 8px;
-    color: white;
-    padding: 19px 24px;
-    display: inline-block;
-    cursor: pointer;
-/* style for text in button */
+}
+/* style for content description */
+.content .description {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000000;
+    padding-top: 35px;
+}
+/* style for subscription button */
+.content .subscription {
+    width: 200px;
+    height: 60px;
+    padding: 19px 24px;
+    background: #000000;
+    display: inline-block;
+    border-radius: 5px;
+    border: none;
+    /* text style */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    align-items: center;
+    text-align: center;
     font-size: 18px;
     line-height: 21px;
-    text-align: center;
-    text-decoration: none;
-  }
+
+    color: #ffffff;
+}
+/* style for img tag */
+.hero_container .img{
+    width: 640px;
+    height: 450px;
+    float: right;
+    padding-top: 95px;
+    padding-bottom: 95px;
+    padding-right: 105px;
+}
