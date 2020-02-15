@@ -1,13 +1,7 @@
-body, html {
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  overflow-x: hidden;
-}
 
-#app {
-  font-family: SFProText-Regular;
-  background-color: #ffffff;
-  color: #303030;
+html, body {
+  margin: auto;
+  max-width: 1440px;
+  min-width: auto;
+  width: 100%;
 }
-

@@ -1,7 +1,7 @@
-
 <style src="../styles/home.css"></style>
+
 <template>
-  <div class="hello">
+  <div>
     <Navigator/>
     <social/>
     <Footer/>
