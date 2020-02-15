@@ -1,11 +1,21 @@
+.social-proof {
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background-color: #F2F2F2;
+    height: 300px;
+    bottom: 0.75%
+}
 .logo {
-    float:left;
+    float: left;
     position: relative;
-    width: 15%;
-    left: 10%;
-    }
-    .title {
-        text-align: center;
-
-        color: #000000;
-    }
+    width: 16%;
+}
+.s-title {
+    text-align: center;
+    font-weight: bold;
+    color: #000000;
+}
+.trust {
+    padding: 20px;
+    margin-bottom: 30px;
+}
