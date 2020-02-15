@@ -1,0 +1,11 @@
+.logo {
+    float:left;
+    position: relative;
+    width: 15%;
+    left: 10%;
+    }
+    .title {
+        text-align: center;
+
+        color: #000000;
+    }
