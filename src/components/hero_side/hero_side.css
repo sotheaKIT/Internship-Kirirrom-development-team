@@ -30,7 +30,9 @@
     font-size: 20px;
     line-height: 28px;
     color: #000000;
-    padding-top: 35px;
+    padding-top: 56px;
+    padding-bottom: 24px;
+    margin: 0px;
 }
 /* style for subscription button */
 .content .subscription {
