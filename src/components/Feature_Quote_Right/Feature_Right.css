@@ -1,0 +1,71 @@
+.Feature_Right {
+    height: 600px;
+    background-color: #F2F2F2;
+}
+
+.Feature_Right .container_media_R img {
+    width: 491px;
+    height: 286px;
+    padding-top: 157px;
+    padding-left: 174px;
+    float: left;
+}
+
+.container_content_R {
+    width: 470px;
+    height: 258px;
+    float: right;
+    padding-top: 171px;
+    padding-right: 140px;
+}
+
+.container_content_R .content_h3 {
+    margin: 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+     
+    color: #000000;
+}
+.container_content_R .content_pb {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color: #000000;
+    padding-bottom: 28px;
+    /* Customer Quote */ 
+
+}
+.container_content_R .content_p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    
+    color: rgba(0, 0, 0, 0.5);
+    /* Customer Quote */    
+}
+.container_content_R p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+
+    
+    color: #000000;
+    /* Dhaka Oke, Product Designer */    
+}
+.container_content_R img {
+    float: left;
+    padding-right: 8px;
+}
