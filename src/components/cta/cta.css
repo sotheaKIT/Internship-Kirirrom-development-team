@@ -1,0 +1,40 @@
+.cta-content {
+    width: 640px; /*can be in percentage also.*/
+    height: auto;
+    margin: 0 auto;
+    padding: 100px;
+    position: relative;
+    align-content: center;
+}
+.cta .cta-btn{
+
+   /* Positioning and sizing */
+   display: block;
+   width: 140px;
+   
+   /* Padding and margins */
+   padding: 1em;
+   margin-top: 10px;
+   margin-left: auto;
+   margin-right: auto;
+   
+   /* Text styles */
+   color: white; /* CHANGE THIS LINE */
+   text-decoration: none;
+   font-size: 22px;
+   background-color: black;
+ 
+   /* Border styles */
+   border: 1px solid black; /* CHANGE THIS LINE */
+   border-radius: 10px;
+    }
+    .cta {
+        background-color: #F2F2F2;
+
+    }
+    h2 {
+        font-weight: bold;
+        align-content: center;
+        padding-left: 32%;
+    
+    }

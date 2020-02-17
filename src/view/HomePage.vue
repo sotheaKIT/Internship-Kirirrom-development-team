@@ -5,6 +5,7 @@
     <Navigator/>
     <Hero_side/>
     <social/>
+    <CTA/>
     <Footer/>
   </div>
 </template>
@@ -13,6 +14,7 @@
 import Navigator from '../components/navigator/navigator.vue'
 import Hero_side from '../components/hero_side/hero_side.vue'
 import Social from '../components/social-proof/Social.vue'
+import CTA from '../components/cta/cta.vue'
 import Footer from '../components/footer/footer.vue'
 
 
@@ -22,6 +24,7 @@ export default {
     Navigator,
     Hero_side,
     Social,
+    CTA,
     Footer
   }
 }
