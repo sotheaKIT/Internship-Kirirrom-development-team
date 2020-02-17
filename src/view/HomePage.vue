@@ -5,6 +5,7 @@
     <Navigator/>
     <Hero_side/>
     <social/>
+    <Feature_quote_left/>
     <Footer/>
   </div>
 </template>
@@ -12,6 +13,7 @@
 <script>
 import Navigator from '../components/navigator/navigator.vue'
 import Hero_side from '../components/hero_side/hero_side.vue'
+import Feature_quote_left from '../components/feature_quote_left/feature_quoate_left.vue'
 import Social from '../components/social-proof/Social.vue'
 import Footer from '../components/footer/footer.vue'
 
@@ -21,6 +23,7 @@ export default {
   components: {
     Navigator,
     Hero_side,
+    Feature_quote_left,
     Social,
     Footer
   }

@@ -1,0 +1,105 @@
+/* style for feature_quote_left */
+.feature_quote_left {
+    margin: 0px 0px;
+    width: 1349px;
+    height: 600px;
+    background: #333333;
+}
+/* style for content_feature */
+.feature {
+    width: 470px;
+    height: 258px;
+    margin: 0px 0px;
+    padding: 171px;
+    padding-right: 0px;
+    padding-left: 225px;
+    float: left;
+
+    
+}
+/* style for topic_title */
+.feature .topic_title {
+    margin: 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+/* style for description */
+.description {
+    padding-top: 24px;
+    margin: 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+/* style for description2 */
+.description2 {
+    padding-top: 48px;
+    margin: 0px;
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+/* style for circle */
+.dot {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    margin-top: 8px;
+    
+}
+/* style for description3 */
+.description3 {
+    padding-top: 10px;
+    padding-left: 32px;
+    margin: 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+/* style for image container */
+.feature_quote_left .image_container {
+    width: 491px;
+    height: 286px;
+    float: right;
+    padding-top: 157px;
+    padding-right: 153px;
+}
+/* style for image1 in image_container */
+.image_container .image1 {
+    width: 400px;
+    height: 232.68px;
+    position: absolute;
+    padding-top: 53.32px;
+    padding-right: 91px;
+}
+/* style for image2 in image_container */
+.image_container .image2 {
+    width: 400px;
+    height: 232.68px;
+    float: right;
+
+}
+
+
+
