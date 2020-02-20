@@ -1,16 +1,16 @@
-.cta {
+.l_cta {
     width: 1349px;
     height: 500px;
     background-color: #F2F2F2;
 }
-.cta-content {
+.c_cta-content {
     width: 422px; /*can be in percentage also.*/
     height: 243px;
     padding: 129px 490px;
     position: relative;
     align-content: center;
 }
-.cta .cta-btn{
+.l_cta .cta-btn{
 
    /* Positioning and sizing */
    display: block;
@@ -45,7 +45,7 @@ h2 {
     color: #000000;
     
 }
-.cta-content p{
+.c_cta-content p{
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
