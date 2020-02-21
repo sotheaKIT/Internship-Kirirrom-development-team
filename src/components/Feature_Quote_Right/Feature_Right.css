@@ -1,25 +1,27 @@
-.Feature_Right {
-    height: 600px;
+.l_Feature_Right {
+    min-height: 600px;
+    height: 100%;
     background-color: #F2F2F2;
+    position: relative;
 }
-
-.Feature_Right .container_media_R img {
+/* component medai image left  */
+.l_Feature_Right .c_container_media_R img {
     width: 491px;
     height: 286px;
     padding-top: 157px;
     padding-left: 174px;
     float: left;
 }
-
-.container_content_R {
+/* component content left  */
+.c_container_content_R {
     width: 470px;
     height: 258px;
     float: right;
     padding-top: 171px;
     padding-right: 140px;
 }
-
-.container_content_R .content_h3 {
+/* component content left text  */
+.c_container_content_R .content_h3 {
     margin: 0px;
     font-family: Roboto;
     font-style: normal;
@@ -30,29 +32,35 @@
      
     color: #000000;
 }
-.container_content_R .content_pb {
+/* component content left text  */
+.c_container_content_R .content_pb {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 25px;
+    padding-bottom: 0px;
     
     color: #000000;
-    padding-bottom: 28px;
+    /* padding-bottom: 28px; */
     /* Customer Quote */ 
 
 }
-.container_content_R .content_p {
+/* component content left text  */
+.c_container_content_R .content_p {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
     
     color: rgba(0, 0, 0, 0.5);
     /* Customer Quote */    
 }
-.container_content_R p {
+/* component content left text  */
+.c_container_content_R p {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -65,7 +73,7 @@
     color: #000000;
     /* Dhaka Oke, Product Designer */    
 }
-.container_content_R img {
+.c_container_content_R img {
     float: left;
     padding-right: 8px;
 }
