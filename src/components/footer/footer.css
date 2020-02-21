@@ -1,26 +1,40 @@
-.footer-service {
+.c_footer-service {
     font-size: 14px;
     line-height: 17px;
     padding: 50px 6.66%;
     display: flow-root;
 }
 
-.footer-service-extend {
+.c_footer-service-extend {
     float: left;
     width: 25%;
     color: #696969;
 }
-.footer-service-extend ul {
+.c_footer-service-extend ul {
     list-style-type: none;
     padding: 0px;
 }
 .title {
-    color: black;
+    font-family: Roboto;
+    font-style: normal;
     font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #000000;
 }
 .title2 {
-    color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
     font-size: 24px;
+    line-height: 34px;
+    /* identical to box height */
+    
+    
+    color: #000000;
 }
 .t_title {
     color: black;
@@ -31,21 +45,25 @@ li {
     margin-bottom: 10px;
 }
 
-.footer {
+.l_footer {
     width: 100%;
 }
 .center {
-    margin: auto;
-    width: auto;
-    padding: 10px;
-    margin: 0px 0px 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    
+    color: #000000;
 }
-.footer-service-extend1 {
+
+.c_footer-service-extend1 {
     float: left;
     width: 15%;
     color: #696969;
 }
-.footer-service-extend1 ul {
+.c_footer-service-extend1 ul {
     list-style-type: none;
     padding: 0px;
 }
