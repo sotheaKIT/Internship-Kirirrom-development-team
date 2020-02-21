@@ -1,0 +1,192 @@
+/* style for pbt_container */
+.l_pbt_container {
+    width: 1349px;
+    height: 860px;
+    background: rgb(255, 255, 255);
+}
+/* style for card1 */
+.l_pbt_container .c_pbt_top_card {
+    width: 1170px;
+    height: 370px;
+    
+
+    padding: 80px 135px 0px 135px;
+}
+/* style for image */
+.c_pbt_top_card .image {
+    width: 400px;
+    height: 370px;
+    background: #222222;
+
+    margin: 0px;
+    float: left;
+}
+/* style for image */
+.image img {
+    width: 240px;
+    height: 247px;
+    padding-top: 54px;
+    padding-left: 92px;
+    padding-right: 68px;
+}
+/* style for pbt_content */
+.l_pbt_container .pbt_content {
+    width: 770px;
+    height: 370px;
+    background: #000000;
+    float: right;
+}
+/* style for top_description */
+.pbt_content .top_description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+
+    padding-left: 78px;
+    padding-top: 54px;
+    margin: 0px 0px;
+}
+/* style for mid_description */
+.pbt_content .mid_description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFFFF;
+
+    padding-left: 78px;
+    padding-top: 16px;
+    margin: 0px 0px;
+
+    width: 492px;
+    height: 125px;
+}
+/* style for read_more */
+.pbt_content .read_more {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+
+    padding-top: 80px;
+    padding-left: 78px;
+    margin: 0px 0px;
+}
+
+.c_pbt_bottom_card {
+    width: 1170px;
+    height: 370px;
+
+    padding: 40px 135px 0px 135px;
+}
+.pbt_card_left {
+    width: 570px;
+    height: 290px;
+    padding-top: 40px;
+    background: #F2F2F2;
+    float: left;
+}
+    /* style for title */
+.pbt_card_left .cdl_title {
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 34px;
+    margin-top: 8px;
+    margin-left: 48px;
+    margin-bottom: 16px;
+    
+    color: #000000;
+}
+    /* style for summary */
+.pbt_card_left .cdl_summury {
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 8px;
+    margin-left: 48px;
+    margin-bottom: 48px;
+    
+    color: #000000;
+}
+    /* style for read more */
+.pbt_card_left .cdl_link {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-left: 48px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+.pbt_card_right {
+    width: 570px;
+    height: 290px;
+    padding-top: 40px;
+    float: right;
+    background: #F2F2F2;
+
+}
+    /* style for title */
+.pbt_card_right .cdr_title {
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 34px;
+    margin-top: 8px;
+    margin-left: 48px;
+    margin-bottom: 16px;
+    
+    color: #000000;
+}
+    /* style for summary */
+.pbt_card_right .cdr_summury {
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 8px;
+    margin-left: 48px;
+    margin-bottom: 48px;
+    
+    color: #000000;
+}
+    /* style for read more */
+.pbt_card_right .cdr_link {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-left: 48px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+
+
