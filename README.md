@@ -1,5 +1,8 @@
 # website
 
+Desing like : 
+https://www.figma.com/file/Z1jWEsAKeUmJTvcx5oeFDw/Wireframing-(Copy)?node-id=0%3A44
+
 ## Project setup
 ```
 npm install
