@@ -1,0 +1,80 @@
+/* ------- start of layout l-hero__container ------- */
+
+/* size for l_hero__container */
+.l_hero__container{
+    min-width: 1349px;
+    min-height: 642px;
+    width: 100%;
+    position: relative;
+}
+/* position for c_hero__content */
+.l_hero__content{
+    width: 422px;
+    height: 357px;
+    float: left;
+    position: relative;
+    padding-top: 155px;
+    padding-left: 135px;
+}
+/* position p for c_hero_title */
+.l_hero__title p{
+    margin: 0px;
+}
+/* style text for c_hero__title */
+.l_hero__title .c_hero__title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 66px;
+    color: #000000;
+}
+/* style p for c_hero__description  */
+.l_hero__description .c_hero__description {
+    padding-top: 56px;
+    padding-bottom: 24px;
+    margin: 0px;
+}
+/* style text for c_hero__description */
+.l_hero__content .c_hero__description {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000000;
+
+}
+/* style for subscription button */
+.l_hero_subscription .c_hero__subscription {
+
+    /* text style */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #ffffff;
+}
+/* position button for l_hero__subscription */
+.l_hero_subscription button {
+    width: 200px;
+    height: 60px;
+    padding: 19px 24px;
+    background: #000000;
+    display: inline-block;
+    border-radius: 5px;
+    border: none;
+}
+/* style for img tag */
+.l_hero__container .c_hero__img{
+    width: 640px;
+    height: 450px;
+    float: right;
+    padding-top: 95px;
+    padding-bottom: 95px;
+    padding-right: 105px;
+}
