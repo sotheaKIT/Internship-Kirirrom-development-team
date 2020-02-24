@@ -3,17 +3,17 @@
     height: 260px;
     background: #F2F2F2;
 }
-.c_social-proof-extend .logo {
+.l_social-proof-extend .l_logo {
     width: 680px;
     height: 80px;
     padding: 0px 360px;
 }
-.logo img {
+.l_logo img {
     width: 80px;
     height: 80px;
     padding-right: 30px;
 }
-.s-title {
+.l_s-title {
 
     font-family: Roboto;
     font-style: normal;
@@ -24,7 +24,7 @@
     text-align: center;
     color: #000000;
 }
-.trust {
+.c_trust {
     padding-top: 48px;
     margin-bottom: 30px;
 }
