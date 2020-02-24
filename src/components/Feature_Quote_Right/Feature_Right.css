@@ -5,15 +5,15 @@
     position: relative;
 }
 /* component medai image left  */
-.l_Feature_Right .c_container_media_R img {
+.l_Feature_Right .l_container_media_R img {
     width: 491px;
     height: 286px;
     padding-top: 157px;
     padding-left: 174px;
     float: left;
 }
-/* component content left  */
-.c_container_content_R {
+/* layout content left  */
+.l_container_content_R {
     width: 470px;
     height: 258px;
     float: right;
@@ -21,7 +21,7 @@
     padding-right: 140px;
 }
 /* component content left text  */
-.c_container_content_R .content_h3 {
+.l_container_content_R .c_content_h3 {
     margin: 0px;
     font-family: Roboto;
     font-style: normal;
@@ -33,7 +33,7 @@
     color: #000000;
 }
 /* component content left text  */
-.c_container_content_R .content_pb {
+.l_container_content_R .c_content_pb {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -47,7 +47,7 @@
 
 }
 /* component content left text  */
-.c_container_content_R .content_p {
+.l_container_content_R .c_content_p {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -60,7 +60,7 @@
     /* Customer Quote */    
 }
 /* component content left text  */
-.c_container_content_R p {
+.L_container_content_R p {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -73,7 +73,7 @@
     color: #000000;
     /* Dhaka Oke, Product Designer */    
 }
-.c_container_content_R img {
+.l_container_content_R img {
     float: left;
     padding-right: 8px;
 }

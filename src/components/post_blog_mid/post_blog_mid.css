@@ -5,7 +5,7 @@
     background: rgb(255, 255, 255);
 }
 /* style for card1 */
-.l_pbt_container .c_pbt_top_card {
+.l_pbt_container .l_pbt_top_card {
     width: 1170px;
     height: 370px;
     
@@ -13,7 +13,7 @@
     padding: 80px 135px 0px 135px;
 }
 /* style for image */
-.c_pbt_top_card .image {
+.l_pbt_top_card .l_image {
     width: 400px;
     height: 370px;
     background: #222222;
@@ -22,7 +22,7 @@
     float: left;
 }
 /* style for image */
-.image img {
+.l_image img {
     width: 240px;
     height: 247px;
     padding-top: 54px;
@@ -30,14 +30,14 @@
     padding-right: 68px;
 }
 /* style for pbt_content */
-.l_pbt_container .pbt_content {
+.l_pbt_container .l_pbt_content {
     width: 770px;
     height: 370px;
     background: #000000;
     float: right;
 }
 /* style for top_description */
-.pbt_content .top_description {
+.l_pbt_content .c_top_description {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -50,7 +50,7 @@
     margin: 0px 0px;
 }
 /* style for mid_description */
-.pbt_content .mid_description {
+.l_pbt_content .c_mid_description {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -66,7 +66,7 @@
     height: 125px;
 }
 /* style for read_more */
-.pbt_content .read_more {
+.l_pbt_content .c_read_more {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -79,13 +79,13 @@
     margin: 0px 0px;
 }
 
-.c_pbt_bottom_card {
+.l_pbt_bottom_card {
     width: 1170px;
     height: 370px;
 
     padding: 40px 135px 0px 135px;
 }
-.pbt_card_left {
+.l_pbt_card_left {
     width: 570px;
     height: 290px;
     padding-top: 40px;
@@ -93,7 +93,7 @@
     float: left;
 }
     /* style for title */
-.pbt_card_left .cdl_title {
+.l_pbt_card_left .c_cdl_title {
     
     font-family: Roboto;
     font-style: normal;
@@ -107,7 +107,7 @@
     color: #000000;
 }
     /* style for summary */
-.pbt_card_left .cdl_summury {
+.l_pbt_card_left .c_cdl_summury {
     
     font-family: Roboto;
     font-style: normal;
@@ -121,7 +121,7 @@
     color: #000000;
 }
     /* style for read more */
-.pbt_card_left .cdl_link {
+.l_pbt_card_left .c_cdl_link {
 
     font-family: Roboto;
     font-style: normal;
@@ -136,7 +136,7 @@
     color: #000000;
 }
 
-.pbt_card_right {
+.l_pbt_card_right {
     width: 570px;
     height: 290px;
     padding-top: 40px;
@@ -145,7 +145,7 @@
 
 }
     /* style for title */
-.pbt_card_right .cdr_title {
+.l_pbt_card_right .c_cdr_title {
     
     font-family: Roboto;
     font-style: normal;
@@ -159,7 +159,7 @@
     color: #000000;
 }
     /* style for summary */
-.pbt_card_right .cdr_summury {
+.l_pbt_card_right .c_cdr_summury {
     
     font-family: Roboto;
     font-style: normal;
@@ -173,7 +173,7 @@
     color: #000000;
 }
     /* style for read more */
-.pbt_card_right .cdr_link {
+.l_pbt_card_right .c_cdr_link {
 
     font-family: Roboto;
     font-style: normal;
