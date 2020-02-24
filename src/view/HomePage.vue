@@ -3,7 +3,7 @@
 <template>
   <div>
     <Navigator/>
-    <Hero_side/>
+    <HeroSide/>
     <social/>
     <Feature_quote_left/>
     <Feature_Right/>
@@ -17,7 +17,7 @@
 
 <script>
 import Navigator from '../components/navigator/navigator.vue'
-import Hero_side from '../components/hero_side/hero_side.vue'
+import HeroSide from '../components/HeroSide/HeroSide.vue'
 import Feature_quote_left from '../components/feature_quote_left/feature_quoate_left.vue'
 import Feature_Right from '../components/Feature_Quote_Right/Feature_Right.vue'
 import Feature_Left from '../components/Feature_Quote_Left_Top/Feature_Left.vue'
@@ -32,7 +32,7 @@ export default {
   name: 'HomePage',
   components: {
     Navigator,
-    Hero_side,
+    HeroSide,
     Feature_quote_left,
     Feature_Right,
     Feature_Left,

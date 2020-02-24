@@ -5,9 +5,12 @@
 /* -------------    Start of Header layout container    -------------  */
 /* style for l_header */
 .l_header {
-  width: 1349px;
-  height: 64px;
+  min-width: 1349px;
+  min-height: 64px;
   margin: 0px 0px;
+  width: 100%;
+  position: relative;
+
 }
 /* -------  end of header layout container  ------- */
 
@@ -16,7 +19,6 @@
 /* style for layout l_company__name */
 .l_company__name {
   float: left;
-  color: black;
   margin-left: 40px;
   margin-top: 18px;
 
@@ -43,12 +45,12 @@
 
 /* -------  start of layout l_navbar__right  ------- */
 /* style for layout .l_navbar__right */
-.c_navbar__right {
+.l_navbar__right {
   float: right;
   height: 64px;
 }
 /* style for position anchor tag */
-.c_navbar__right a {
+.l_navbar__right a {
   float: left;
   color: black;
 
@@ -58,7 +60,7 @@
   border-radius: 4px;
 }
 /* style for achor tag text */
-.c_navbar__right .a_style {
+.l_navbar__right .c_a__style {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
@@ -69,21 +71,28 @@
   text-decoration: none;
   text-align: center;
   color: #000000;
+  text-decoration: none;
 }
 /* style for sign up button */
-.c_navbar__right .sign_up {
+.l_sign__up {
+  float: right;
+}
+/* style for sign up text */
+.l_sign__up a{
+  text-decoration: none;
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 24px;
+
   display: flex;
   align-items: center;
-  text-decoration: none;
   text-align: center;
+
   color: #000000;
-
-
+}
+.l_sign__up .c_sign__up {
   padding: 10px 40px;
   margin: 10px ;
   margin-right: 40px;
