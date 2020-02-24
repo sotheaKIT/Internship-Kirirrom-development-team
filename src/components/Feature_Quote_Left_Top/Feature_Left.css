@@ -4,7 +4,7 @@
     position: relative;
 }
 /* content left  */
-.c_content_left {
+.l_content_left {
     height: 258px;
     width: 470px;
     padding-top: 171px;
@@ -12,8 +12,8 @@
     float: left;
     
 }
-/* content left text */
-.c_content_left .content_h3 {
+/* component content left text */
+.l_content_left .c_content_h3 {
 
     font-family: Roboto;
     font-style: normal;
@@ -24,8 +24,8 @@
     
     color: #000000;
 }
-/* content left text */
-.c_content_left .content_pb {
+/* component content left text */
+.l_content_left .c_content_pb {
 
     font-family: Roboto;
     font-style: normal;
@@ -36,8 +36,8 @@
     color: #000000;
     padding-bottom: 48px ;
 }
-/* content left text */
-.c_content_left .content_p {
+/* component content left text */
+.l_content_left .c_content_p {
     
     font-family: Roboto;
     font-style: normal;
@@ -48,8 +48,8 @@
     color: rgba(0, 0, 0, 0.5);
     padding-bottom: 10px;
 }
-/* content left text */
-.c_content_left p {
+/* component content left text */
+.l_content_left p {
     
     font-family: Roboto;
     font-style: normal;
@@ -64,13 +64,13 @@
     margin: 0px 0px;
     padding-left: 8px; 
 }
-.c_content_left img {
+.l_content_left img {
     float: left;  
     
 }
 
 /* media left  */
-.c_media_left {
+.l_media_left {
     width: 491px;
     height: 286px;
     float: right;
@@ -79,7 +79,7 @@
 
 }
 /* media left black_box */
-.c_media_left .imgb {
+.l_media_left .l_imgb {
 
     position: absolute;
     width: 400px;
@@ -91,9 +91,9 @@
     
 }
 /* media left White_box */
-.c_media_left .imgw {
-    width: 400px;
-    height: 232.68px;
+.l_media_left .l_imgw {
+    min-width: 400px;
+    min-height: 232.68px;
     background: #F2F2F2;
     float: right;
 
