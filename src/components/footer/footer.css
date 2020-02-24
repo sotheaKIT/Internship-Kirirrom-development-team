@@ -1,20 +1,20 @@
-.c_footer-service {
+.l_footer-service {
     font-size: 14px;
     line-height: 17px;
     padding: 50px 6.66%;
     display: flow-root;
 }
 
-.c_footer-service-extend {
+.l_footer-service-extend {
     float: left;
     width: 25%;
     color: #696969;
 }
-.c_footer-service-extend ul {
+.l_footer-service-extend ul {
     list-style-type: none;
     padding: 0px;
 }
-.title {
+.c_title {
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
@@ -25,7 +25,7 @@
     
     color: #000000;
 }
-.title2 {
+.c_title2 {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -36,7 +36,7 @@
     
     color: #000000;
 }
-.t_title {
+.c_t_title {
     color: black;
     font-size: 24px;
     font-weight: bold;
@@ -48,7 +48,7 @@ li {
 .l_footer {
     width: 100%;
 }
-.center {
+.c_center {
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -58,12 +58,12 @@ li {
     color: #000000;
 }
 
-.c_footer-service-extend1 {
+.l_footer-service-extend1 {
     float: left;
     width: 15%;
     color: #696969;
 }
-.c_footer-service-extend1 ul {
+.l_footer-service-extend1 ul {
     list-style-type: none;
     padding: 0px;
 }
@@ -79,6 +79,6 @@ p {
     margin-bottom: 80px;
 
 }
-a.privacy{
+a.c_privacy{
     margin-bottom: 80px;
 }
